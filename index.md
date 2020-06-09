@@ -1,7 +1,9 @@
 <h1> 
   Education
 <h1>
-* Concordia University
+  <h2>
+    Concordia University
+  <h2>
 <h1> 
   Work experience
 <h1>
