@@ -1,7 +1,7 @@
 <h1> 
   Education
 <h1>
-** LJKhjb
+
 <h1> 
   Work experience
 <h1>
