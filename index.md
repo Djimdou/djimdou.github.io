@@ -26,5 +26,5 @@
   <h2>
   
  <h1> 
-  CV (pdf version)
+  CV (pdf)
 <h1>
