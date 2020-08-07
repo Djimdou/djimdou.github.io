@@ -26,5 +26,5 @@
   <h2>
   
 <h1> 
-  href="https://github.com/Djimdou/djimdou.github.io/blob/master/Profile.pdf" target="_blank">CV (pdf)
+  <a href="https://github.com/Djimdou/djimdou.github.io/blob/master/Profile.pdf" target="_blank">CV (PDF)</a>
 <h1>
