@@ -25,6 +25,6 @@
     CPAM de l'Essonne
   <h2>
   
- <h1> 
-  <a href="https://github.com/Djimdou/djimdou.github.io/blob/master/Profile.pdf" target="_blank">CV (pdf).</a>
+ h1> 
+  href="https://github.com/Djimdou/djimdou.github.io/blob/master/Profile.pdf" target="_blank">CV (pdf)
 <h1>
