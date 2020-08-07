@@ -28,3 +28,11 @@
 <h1> 
   <a href="https://github.com/Djimdou/djimdou.github.io/blob/master/Profile.pdf" target="_blank">CV (PDF)</a>
 <h1>
+
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
