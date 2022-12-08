@@ -19,6 +19,15 @@
   Work experience
 <h1>
    <h2>
+    Laurentian Bank
+  <h2>
+  <h2>
+    FPInnovations
+  <h2>
+  <h2>
+    Statistics Canada
+  <h2>
+   <h2>
     Concordia University
   <h2>
    <h2>
