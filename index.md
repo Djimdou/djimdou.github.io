@@ -34,5 +34,5 @@
   <h2>
   
 <h1> 
-  <a href="https://github.com/Djimdou/djimdou.github.io/blob/master/Profile.pdf" target="_blank">CV (PDF)</a>
+  <a href="https://github.com/Djimdou/djimdou.github.io/blob/master/Resume-Magloire-LOUDEGUI-DJIMDOU.pdf" target="_blank">CV (PDF)</a>
 <h1>
